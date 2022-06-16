@@ -24,7 +24,7 @@ const taxonomy = {
 // const taxonomy = null;
 
 // specify your tags
-const tags = ["Github", "Executable", "LM", "EM", "Dataset"];
+const tags = ["Github", "Executable", "LM", "EM", "Dataset", "Ours"];
 
 
 // Uncomment this line and remove the above if you do not want to use tags
